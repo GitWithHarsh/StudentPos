@@ -467,4 +467,8 @@ class AdminController extends Controller
             echo "done";
         }
     }
+    public function addBrach()
+    {
+        echo "d";
+    }
 }
